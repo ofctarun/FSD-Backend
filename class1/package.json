@@ -1,0 +1,17 @@
+{
+  "name": "class1",
+  "version": "1.0.0",
+  "description": "first class of the backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "backend",
+    "server",
+    "http"
+  ],
+  "author": "Tarun",
+  "license": "ISC"
+}
