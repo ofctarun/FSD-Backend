@@ -21,6 +21,10 @@ import express from "express";
 
 const app = express();
 
+app.get('/',(req, res) => {
+    res.send("hello this is fron Backend.");
+})
+
 app.listen(7007, () => {
     console.log("server running at 7007")
 })
